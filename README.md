@@ -1,6 +1,6 @@
 # ZCoder
 
-ZCoder is a collaborative coding platform designed to help users practice, bookmark, and discuss coding problems in real time. This repository contains the backend codebase built using Node.js, Express.js, MongoDB, and Mongoose.
+ZCoder is a collaborative coding platform designed to help users practice and discuss coding problems in real time. This repository contains the backend codebase built using Node.js, Express.js, MongoDB, and Mongoose.
 
 ## Features
 
