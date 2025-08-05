@@ -4,18 +4,17 @@ ZCoder is a collaborative coding platform designed to help users practice, bookm
 
 ## Features
 
-- User authentication (JWT-based)
-- RESTful APIs for user, problem, and bookmark management
-- Mongoose models for users, problems, and chat messages
-- Real-time chat support using WebSockets (`socket.io`)
-- MongoDB integration via Mongoose
-- Support for tagging, notes, and user contributions
+- User authentication (JWT-based).
+- RESTful APIs for user management.
+- Mongoose models for users.
+- Real-time Integration using WebSockets (`socket.io`).
+- MongoDB integration via Mongoose.
+
 
 ## Tech Stack
 
 - Node.js
 - Express.js
-- MongoDB (Atlas)
 - Mongoose
 - Socket.io
 - bcryptjs
